@@ -7,7 +7,7 @@
  */
 export const images = {
   heroBride: {
-    src: "/images/hero-bride.webp",
+  src: "/bridal.jpg",
     alt: "Bride in traditional red attire with gold jewellery and polished bridal makeup",
   },
   bridalJewel: {
