@@ -1,6 +1,6 @@
-# TheSerenneBeauty — Makeup Studio & Beauty
+# TheSerenneBeauty — Salon at Home & Beauty
 
-A complete, responsive website for **TheSerenneBeauty**, a makeup studio and beauty parlour in Gomti Nagar, Lucknow — built with Next.js (App Router), TypeScript and Tailwind CSS. It includes a full service menu with detail pages for every treatment, transparent pricing, a filterable portfolio with individual look pages, pre-bridal packages, sample-labelled reviews, a WhatsApp booking flow and contact pages.
+A complete, responsive website for **TheSerenneBeauty**, a Salon at Home and beauty parlour in Gomti Nagar, Lucknow — built with Next.js (App Router), TypeScript and Tailwind CSS. It includes a full service menu with detail pages for every treatment, transparent pricing, a filterable portfolio with individual look pages, pre-bridal packages, sample-labelled reviews, a WhatsApp booking flow and contact pages.
 
 ## Business details in this build
 
