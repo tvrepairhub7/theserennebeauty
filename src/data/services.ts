@@ -274,6 +274,75 @@ export const serviceCategories: ServiceCategory[] = [
     ],
   },
   {
+    
+slug: "hair-services",
+title: "Hair Services",
+navLabel: "Hair Services",
+eyebrow: "Professional hair care",
+tagline: "Beautiful hair, tailored to you.",
+intro:
+"Professional hair treatments and colouring services tailored to your needs.",
+image: "hairBrush",
+items: [
+{
+id: "hair-smoothening",
+name: "Hair Smoothening",
+price: null,
+description: "A professional treatment for smoother, more manageable hair.",
+image: "hairBrush",
+},
+{
+id: "hair-rebonding",
+name: "Hair Rebonding",
+price: null,
+description: "A hair-straightening treatment for a sleek look.",
+image: "hairBrush",
+},
+{
+id: "hair-botox",
+name: "Hair Botox",
+price: null,
+description: "A conditioning treatment for dry and frizzy hair.",
+image: "hairBrush",
+},
+{
+id: "keratin-treatment",
+name: "Keratin Treatment",
+price: null,
+description: "A smoothing treatment to help reduce frizz and add shine.",
+image: "hairBrush",
+},
+{
+id: "global-hair-colour",
+name: "Global Hair Colour",
+price: null,
+description: "All-over hair colouring in your preferred shade.",
+image: "hairBrush",
+},
+{
+id: "hair-highlights",
+name: "Hair Highlights",
+price: null,
+description: "Highlights that add dimension to your hair colour.",
+image: "hairBrush",
+},
+{
+id: "root-touch-up",
+name: "Root Touch Up",
+price: null,
+description: "Root colouring to refresh hair regrowth.",
+image: "hairBrush",
+},
+{
+id: "balayage-colour",
+name: "Balayage Colour",
+price: null,
+description: "Blended hair colouring for a soft, dimensional look.",
+image: "hairBrush",
+},
+],
+},
+{
     slug: "body-polishing",
     title: "Body Polishing & Hair Spa",
     navLabel: "Body Polishing",
@@ -366,8 +435,11 @@ export const makeupCategories = serviceCategories.filter(
     category.slug === "party-makeup" ||
     category.slug === "engagement-makeup" ||
     category.slug === "bridal-reception-makeup",
+    
 );
-
+export const hairCategories = serviceCategories.filter(
+  (category) => category.slug === "hair-services",
+);
 export const beautyCategories = serviceCategories.filter(
   (category) => !makeupCategories.includes(category),
 );
