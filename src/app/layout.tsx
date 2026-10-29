@@ -24,7 +24,7 @@ const jost = Jost({
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: `${site.name} — Makeup Studio in Lucknow`,
+    default: `${site.name} — Salon at Home in Lucknow`,
     template: `%s | ${site.name}`,
   },
   description: site.description,
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_IN",
     siteName: site.name,
-    title: `${site.name} — Makeup Studio in Lucknow`,
+    title: `${site.name} — Salon at Home in Lucknow`,
     description: site.description,
     url: "/",
     images: [
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${site.name} — Makeup Studio in Lucknow`,
+    title: `${site.name} — Salon at Home in Lucknow`,
     description: site.description,
     images: ["/og.jpg"],
   },
