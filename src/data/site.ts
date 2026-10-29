@@ -2,7 +2,7 @@ export const site = {
   name: "TheSerenneBeauty",
   shortName: "TheSerenneBeauty",
   wordmark: { lead: "TheSerenne", accent: "Beauty" },
-  tagline: "Makeup Studio · Lucknow",
+  tagline: "Salon at Home · Lucknow",
   description:
     "Professional bridal, engagement and party makeup, pre-bridal packages, facials, waxing, manicures, pedicures, body polishing and threading in Gomti Nagar, Lucknow — delivered with a personal, unhurried touch.",
 
