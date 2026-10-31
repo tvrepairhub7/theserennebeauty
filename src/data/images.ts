@@ -23,7 +23,7 @@ export const images = {
   alt: "Woman in an elegant outfit with professional engagement makeup",
   },
   partyPortrait: {
-   src: "/party-new.jpeg",
+  src: "/party-new.jpeg",
   alt: "Guest wearing elegant pink party makeup and jewellery",
   },
   partyEye: {
