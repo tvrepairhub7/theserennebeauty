@@ -22,13 +22,13 @@ export const images = {
      src: "/engagement-new.jpeg",
   alt: "Woman in an elegant outfit with professional engagement makeup",
   },
- partyPortrait: {
-  src: "/party-new.jpeg",
-  alt: "Elegant party makeup with pink tones and jewellery",
+partyPortrait: {
+  src: "/party-glam-new.jpeg",
+  alt: "Elegant party makeup with beautiful jewellery and soft glam finish",
 },
 partyEye: {
-  src: "/party-new.jpeg",
-  alt: "Close-up of elegant pink party eye makeup with jewellery",
+  src: "/party-glam-new.jpeg",
+  alt: "Elegant party makeup with beautiful jewellery and soft glam finish",
 },
   eyeMakeupFloral: {
     src: "/images/eye-makeup-floral.webp",
