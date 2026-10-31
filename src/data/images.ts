@@ -23,8 +23,8 @@ export const images = {
   alt: "Woman in an elegant outfit with professional engagement makeup",
   },
   partyPortrait: {
-    src: "/images/party-portrait.webp",
-    alt: "Guest wearing a purple lehenga with soft party makeup and styled hair",
+   src: "/party-new.jpeg",
+  alt: "Guest wearing elegant pink party makeup and jewellery",
   },
   partyEye: {
  src: "/party-new.jpeg",
