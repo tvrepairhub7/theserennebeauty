@@ -19,15 +19,15 @@ export const images = {
     alt: "Woman in a deep purple saree with traditional gold jewellery",
   },
   engagementGreen: {
-    src: "/engagement-new.jpg",
-    alt: "Woman in an emerald green lehenga styled for an engagement celebration",
+     src: "/engagement-new.jpeg",
+  alt: "Woman in an elegant outfit with professional engagement makeup",
   },
   partyPortrait: {
     src: "/images/party-portrait.webp",
     alt: "Guest wearing a purple lehenga with soft party makeup and styled hair",
   },
   partyEye: {
-  src: "/party-new.jpg",
+ src: "/party-new.jpeg",
   alt: "Close-up of elegant pink party eye makeup with jewellery",
   },
   eyeMakeupFloral: {
